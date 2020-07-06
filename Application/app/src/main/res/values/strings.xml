@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Application</string>
+    <string-array name="supercar_name">
+        <item>f8tributo</item>
+        <item>fordgt</item>
+        <item>huracanevo</item>
+        <item>m600</item>
+        <item>sf90stradalle</item>
+        <item>svj</item>
+        <item>valhalla</item>
+        <item>vanquish</item>
+    </string-array>
+    <string-array name="description">
+        <item>Lorem ipsum dolor sit amet</item>
+        <item>Lorem ipsum dolor sit amet</item>
+        <item>Lorem ipsum dolor sit amet</item>
+        <item>Lorem ipsum dolor sit amet</item>
+        <item>Lorem ipsum dolor sit amet</item>
+        <item>Lorem ipsum dolor sit amet</item>
+        <item>Lorem ipsum dolor sit amet</item>
+        <item>Lorem ipsum dolor sit amet</item>
+        <item>Lorem ipsum dolor sit amet</item>
+        <item>Lorem ipsum dolor sit amet</item>
+    </string-array>
+</resources>

@@ -1,0 +1,21 @@
+Recycler view
+
+file referensi github/anandaBelajar
+video referensi youtube/Stevdza-San
+
+1. ke tampilan design activity_main.xml
+2. pada bagian kolom search pallete cari recyclerView
+3. drag recyclerview ke layaout yang dipakai, klik ok
+4.untuk contoh kita akan menggunakan strings untuk mengisi data recycler view
+5. navigate ke /res/values/strings.xml tambahkan beberapa baris string contoh github/anandaBelajar/belajarRecyclerView
+6. navgate ke MainActivity.java edit file tersebut contohnya github/anandaBelajar/belajarRecyclerView
+7. buat recycler view adater dengan cara menabahkan kelas java baru contohnya lihat github/anandaBelajar/belajarRecyclerView/MyAdapter.java
+8. tambahkan layout baru sebagai isi dari tiap baris dari recyclerView dan edit layout tersebut contohnya github/anandaBelajar/belajarRecyclerView/my_layout.xml
+
+
+//recyclerView set on click listener pindah ke activity baru
+1. buat activity baru contohnya di github/anandaBelajar/belajarRecyclerView/SecondActivity
+2. edit file .xml dari activity yang abru dibuat contohnya di github/anandaBelajar/belajarRecyclerView/activity-seconf.xml
+3. edit file recyclerView adapter tambahkan beberapa syntax untuk mendukung click listener contohnya di di github/anandaBelajar/belajarRecyclerView/MyAdpater
+4. edit AndroidManifest.xml tambahkan parent activity dari activity yang abru dibuat contohnya ada di di github/anandaBelajar/belajarRecyclerView/AndroidManifest.xml
+5.edit file activity.java yang abru dibuat contohnya di di github/anandaBelajar/belajarRecyclerView/SecondActivity
